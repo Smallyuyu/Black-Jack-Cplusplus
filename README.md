@@ -1,11 +1,11 @@
 # Black-Jack-Cplusplus
 ## 美編：
-gotoxy：清屏、cout
+	gotoxy：清屏、cout
 
 ## 繪製：
-printmenu()：輸出選項菜單
-print_card()：輸出閒家的卡牌
-print_dealer_card()：輸出莊家的卡牌
+	printmenu()：輸出選項菜單
+	print_card()：輸出閒家的卡牌
+	print_dealer_card()：輸出莊家的卡牌
 
 ## 玩家資料儲存：
 	用物件導向先寫PlayerPoint.cpp、PlayerPoint.h兩個檔案
@@ -31,9 +31,9 @@ print_dealer_card()：輸出莊家的卡牌
 	Get_size：回傳卡牌張數
 
 ## 卡牌對應：
-用一個map來儲存數字與英文符號對應，
-再用另一個map來儲存數字與卡牌大小的對應
+	用一個map來儲存數字與英文符號對應，
+	再用另一個map來儲存數字與卡牌大小的對應
 
 ## 排名：
-用struct來儲存玩家編號以及最後所剩金額，並排序輸出
+	用struct來儲存玩家編號以及最後所剩金額，並排序輸出
 
