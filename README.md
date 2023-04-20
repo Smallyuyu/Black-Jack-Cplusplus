@@ -1,4 +1,8 @@
 # Black-Jack-Cplusplus
+## 概要：
+	用C++ 物件導向的概念實作Black Jack（21點）
+	總行數：1158行
+	
 ## 美編：
 	gotoxy：清屏、cout
 
