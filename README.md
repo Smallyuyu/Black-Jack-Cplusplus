@@ -1,4 +1,4 @@
-# Black-Jack-Cplusplus
+# Black-Jack
 ## 概要：
 	用C++ 物件導向的概念實作Black Jack（21點）
 	總行數：1158行
